@@ -1,0 +1,1 @@
+var burger = {restaurant: "Red Robin", category: "Mushroom Swiss Burger"};
